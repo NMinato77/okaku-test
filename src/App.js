@@ -8,7 +8,7 @@ function App() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const response = await fetch(`${process.env.REACT_APP_API_URL}process`, {
+    const response = await fetch('https://minatoyamashita.com/okaku-test/process', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
