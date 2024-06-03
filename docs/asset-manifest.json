@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/okaku-test.github.io/static/css/main.05038835.css",
+    "main.js": "/okaku-test.github.io/static/js/main.1570ec1d.js",
+    "static/js/453.7df8a123.chunk.js": "/okaku-test.github.io/static/js/453.7df8a123.chunk.js",
+    "index.html": "/okaku-test.github.io/index.html",
+    "main.05038835.css.map": "/okaku-test.github.io/static/css/main.05038835.css.map",
+    "main.1570ec1d.js.map": "/okaku-test.github.io/static/js/main.1570ec1d.js.map",
+    "453.7df8a123.chunk.js.map": "/okaku-test.github.io/static/js/453.7df8a123.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05038835.css",
+    "static/js/main.1570ec1d.js"
+  ]
+}
